@@ -1,11 +1,15 @@
-# functions.py
-
+# Complete the 2 following functions
 def add(a, b):
-    # Your implementation here
+    return a + b
     pass
 
 def subtract(a, b):
-    # Your implementation here
+    return a - b
     pass
 
-# Add more functions as needed
+# Add 2 more functions:
+# 1."multiply" for multiplication
+# ADD YOUR CODE BELOW
+
+# 2. "divide" for division
+# ADD YOUR CODE BELOW
